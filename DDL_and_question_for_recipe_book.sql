@@ -3,14 +3,14 @@
 --for example for the book page numbers given, the esult would be:
 '''
 --original table
-+---+------------+-------------
-|page_no    |title            |
+--+---+------------+-------------
+--|page_no    |title            |
 -------------------------------
-|1          |Scramblled eggs  |
-|2          |Fonsu            |
-|3          |Sandwich         |
-|4          |Tomato Soup      |
-|6          |Liver            |
+--|1          |Scramblled eggs  |
+--|2          |Fonsu            |
+--|3          |Sandwich         |
+--|4          |Tomato Soup      |
+--|6          |Liver            |
 
 '''
 ----------------------------
