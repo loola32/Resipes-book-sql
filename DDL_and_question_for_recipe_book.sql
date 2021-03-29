@@ -1,14 +1,25 @@
 --create a table that has two columns: left_page and right_page
 --that shows all recipes in the book.
 --for example for the book page numbers given, the esult would be:
+'''
+--original table
++---+------------+-------------
+|page_no    |title            |
+-------------------------------
+|1          |Scramblled eggs  |
+|2          |Fonsu            |
+|3          |Sandwich         |
+|4          |Tomato Soup      |
+|6          |Liver            |
 
+'''
 ----------------------------
 ---left_page|||right_page
 ---------------------------
 --  NULL  	    ||	Scrambledd eggs
---  Fondu	    ||  Sandwich
+--  Fondu	      ||  Sandwich
 --  Tomato soup || 	NULL
---  Liver		||  NULL  
+--  Liver		    ||  NULL  
 
 
 create table recipes 
